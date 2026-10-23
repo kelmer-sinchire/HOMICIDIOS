@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
+
+/_book/
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
